@@ -19,9 +19,11 @@ Spotting the movements of big players in the forex market—like central banks, 
 
    - **How to Track**:
      - Use **technical analysis** on platforms like MetaTrader or TradingView to identify:
+
        - **Round numbers**: Big players often defend levels like 1.1000 or 150.00 (USD/JPY).
        - **Support/Resistance**: Look for price zones where the market repeatedly reverses or consolidates.
        - **Breakouts/Fakeouts**: Big players may push prices through key levels to trigger retail stop-losses before reversing. For example, a sudden spike above 1.2050 on EUR/USD followed by a sharp drop suggests banks or funds “hunting stops.”
+
      - Watch for **sudden price spikes** or reversals during high-liquidity sessions (London/New York overlap, 8 AM-12 PM EST), when banks are most active.
    - **Example**: If EUR/USD approaches 1.2000 and stalls with multiple rejections (visible as candlestick wicks), banks or funds may be selling to defend that level.
    - **Action for You**: Mark key levels on your charts and wait for confirmation (e.g., a rejection candle or breakout with volume) before trading. Use a demo account to practice spotting these patterns.
