@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Catppuccin",
-  "theme": "obsidian",
-  "interfaceFontFamily": "Fira Code",
-  "baseFontSize": 18,
-  "textFontFamily": ""
+  "cssTheme": "Atom",
+  "theme": "moonstone",
+  "interfaceFontFamily": "Fira Code,Fira Code Retina",
+  "baseFontSize": 16,
+  "textFontFamily": "Fira Code Retina",
+  "baseFontSizeAction": true
 }
